@@ -1,0 +1,40 @@
+@media screen and (min-width: 300px){
+
+body{
+  width: 95%;
+  max-width: 800px;
+  margin: auto;
+
+  font-family: 'Roboto Condensed';
+  line-height: 1.35;
+  color: white;
+  background: url(img/fundo.png) center;
+}
+
+img{
+  width: 200px;
+  border-radius: 40px;
+  float: left;
+  padding: 20px;
+}
+
+main{
+  background: #000000eb;
+  padding: 20px 40px;
+  margin-top: 70px;
+  border-radius: 30px;
+}
+
+h1{
+  text-align: center;
+  margin: 0;
+}
+p,h2{
+  text-align: justify;
+  margin: 0;
+}
+
+header{
+  float: left;
+}
+}
