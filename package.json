@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/frmfelipemaia/PaginaPessoal/issues"
   },
-  "homepage": "https://github.com/frmfelipemaia/PaginaPessoal#readme"
+  "homepage": "https://github.com/frmfelipemaia/PaginaPessoal#readme",
+  "dependencies": {
+    "next": "^10.0.5"
+  }
 }
